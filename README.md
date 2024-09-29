@@ -1,8 +1,8 @@
-# MontlyDateDisplay
+# MonthlyDateDisplay
 
 ## Overview
 
-**DatePicker** is a simple React app that allows users to select a month and view all the dates within that month. It is designed to help users quickly visualize the dates of any month in a clean and user-friendly interface.
+**MonthlyDateDisplay** is a simple React app that allows users to select a month and view all the dates within that month. It is designed to help users quickly visualize the dates of any month in a clean and user-friendly interface.
 
 ## Features
 
