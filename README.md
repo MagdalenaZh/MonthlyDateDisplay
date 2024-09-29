@@ -11,9 +11,9 @@
 
 ## Screenshots
 
-![App Screenshot](./assets/screenshot1.png)
-![App Screenshot](./assets/screenshot2.png)
-![App Screenshot](./assets/screenshot3.png)
+![App Screenshot](./src/assets/screenshot1.png)
+![App Screenshot](./src/assets/screenshot2.png)
+![App Screenshot](./src/assets/screenshot3.png)
 
 ## Installation
 
