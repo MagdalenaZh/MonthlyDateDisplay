@@ -1,8 +1,37 @@
-# React + Vite
+# DatePicker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+**DatePicker** is a simple React app that allows users to select a month and view all the dates within that month. It is designed to help users quickly visualize the dates of any month in a clean and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Dropdown to select any month.
+- Display all dates for the selected month.
+
+## Screenshots
+
+![App Screenshot](./assets/screenshot1.png)
+![App Screenshot](./assets/screenshot2.png)
+![App Screenshot](./assets/screenshot3.png)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+- Make sure you have **Node.js** installed on your machine.
+
+### Setup
+
+1. Clone the repository:
+2. Navigate the project diractory
+3. Install the dependecies
+
+### Usage
+
+1. Start the development server:
+   npm run dev
+2. Open your browser and go to http://localhost:3000.
+3. Select a month from the dropdown to view all the dates for that month.
